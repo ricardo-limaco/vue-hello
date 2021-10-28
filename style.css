@@ -1,0 +1,6 @@
+.text-bold-red {
+  font-weight: 700;
+  font-size: 50px;
+  color: rgb(184, 0, 0);
+  padding-left: 30px;
+}
